@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.clearfix{
+	padding: 20px;
+}
+#close{
+	float: right;margin-top: -23px;
+}
+.panel-title{
+	width: 100px;
+}
+#result{
+	 padding: 5px 0;
+}
